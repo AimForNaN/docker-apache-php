@@ -20,7 +20,7 @@ Configured to also parse HTML files through PHP.
 | ---- | ------------- | ------ |
 | localhost:8080 | /var/www/html | ./conf/vhosts/site.conf |
 
-> Can be adjusted post-build.
+> Can be adjusted post-build. Server restart required.
 
 ## Build
 
