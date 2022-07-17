@@ -15,12 +15,11 @@ Configured to also parse HTML files through PHP.
 ## Default Virtual Host
 
 > Adjust default or use it as a reference for new virtual hosts.
+> Can be adjusted post-build. Server restart required.
 
 | Host | Document Root | Config |
 | ---- | ------------- | ------ |
 | localhost:8080 | /var/www/html | ./conf/vhosts/site.conf |
-
-> Can be adjusted post-build. Server restart required.
 
 ## Build
 
