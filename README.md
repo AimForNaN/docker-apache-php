@@ -9,8 +9,10 @@ Configured to also parse HTML files through PHP.
 | Source | Target |
 | ------ | ------ |
 | ./www  | /var/www |
+| ./conf/.env  | /etc/environment |
 | ./conf/vhosts | /etc/apache2/sites-enabled |
 | ./logs/httpd | /var/log/apache2 |
+| ./conf/php/www.ini | /usr/local/etc/php/conf.d/www.ini |
 
 ## Default Virtual Host
 
